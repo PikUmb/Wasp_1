@@ -19,16 +19,16 @@
   <ion-list>
     <h2>Informazioni</h2>
     <ion-item>
-      <h4> Nome <span float-right><strong>{{ nomeMembro | uppercase}} </strong></span></h4>
+      <h4 class="muovi"> Nome <span float-right><strong>{{ nomeMembro | uppercase}} </strong></span></h4>
     </ion-item>
     <ion-item>
-      <h4> Cognome <span float-right><strong>{{ cognomeMembro | uppercase }} </strong></span></h4>
+      <h4 class="muovi"> Cognome <span float-right><strong>{{ cognomeMembro | uppercase }} </strong></span></h4>
     </ion-item>
     <button ion-item (click)="modificaCosto()">
-      <h4>Costo <span float-right><strong>{{ costoMembro }}€/gg</strong></span></h4>
+      <h4 class="muovi">Costo <span float-right><strong>{{ costoMembro }}€/gg</strong></span></h4>
     </button>
     <button ion-item (click)="modificaRicavo()">
-      <h4>Ricavo <span float-right><strong>{{ ricavoMembro }}€/gg</strong></span></h4>
+      <h4 class="muovi">Ricavo <span float-right><strong>{{ ricavoMembro }}€/gg</strong></span></h4>
     </button>
   </ion-list>
 

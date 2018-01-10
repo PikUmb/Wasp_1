@@ -175,6 +175,10 @@ export class HomeProgettoPage {
             'rgba(153, 102, 255, 1)',
             'rgba(255, 159, 64, 1)'
           ],
+            hoverBackgroundColor: [
+                "#FF6384",
+                "#36A2EB",
+            ],
           borderWidth: 1
         }]
       },

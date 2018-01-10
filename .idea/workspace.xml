@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7e87254d-7fb3-4bd3-b955-075a818cf8cd" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/config.xml" afterPath="$PROJECT_DIR$/config.xml" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-android/package.json" afterPath="$PROJECT_DIR$/node_modules/cordova-android/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-device/.jshintrc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-device/.travis.yml" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-device/.travis.yml" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-device/README.md" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-device/README.md" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-device/RELEASENOTES.md" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-device/RELEASENOTES.md" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-device/package.json" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-device/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-device/plugin.xml" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-device/plugin.xml" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-device/src/blackberry10/index.js" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-device/src/blackberry10/index.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-device/src/browser/DeviceProxy.js" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-device/src/browser/DeviceProxy.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-device/src/firefoxos/DeviceProxy.js" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-device/src/firefoxos/DeviceProxy.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-device/src/tizen/DeviceProxy.js" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-device/src/tizen/DeviceProxy.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-device/src/ubuntu/device.js" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-device/src/ubuntu/device.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-device/src/windows/DeviceProxy.js" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-device/src/windows/DeviceProxy.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-device/tests/plugin.xml" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-device/tests/plugin.xml" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-device/tests/tests.js" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-device/tests/tests.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-device/www/device.js" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-device/www/device.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-ionic-webview/package.json" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-ionic-webview/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-splashscreen/.travis.yml" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-splashscreen/.travis.yml" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-splashscreen/README.md" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-splashscreen/README.md" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-splashscreen/RELEASENOTES.md" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-splashscreen/RELEASENOTES.md" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-splashscreen/package.json" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-splashscreen/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-splashscreen/plugin.xml" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-splashscreen/plugin.xml" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-splashscreen/src/android/SplashScreen.java" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-splashscreen/src/android/SplashScreen.java" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-splashscreen/src/browser/SplashScreenProxy.js" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-splashscreen/src/browser/SplashScreenProxy.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-splashscreen/tests/plugin.xml" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-splashscreen/tests/plugin.xml" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-whitelist/RELEASENOTES.md" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-whitelist/RELEASENOTES.md" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-whitelist/package.json" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-whitelist/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-whitelist/plugin.xml" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-whitelist/plugin.xml" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage-dependencies/README.md" afterPath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage-dependencies/README.md" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage-dependencies/libs/arm64-v8a/libsqlc-native-driver.so" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage-dependencies/libs/armeabi-v7a/libsqlc-native-driver.so" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage-dependencies/libs/armeabi/libsqlc-native-driver.so" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage-dependencies/libs/x86/libsqlc-native-driver.so" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage-dependencies/libs/x86_64/libsqlc-native-driver.so" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage-dependencies/package.json" afterPath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage-dependencies/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/CHANGES.md" afterPath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/CHANGES.md" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/README.md" afterPath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/README.md" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/package.json" afterPath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/plugin.xml" afterPath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/plugin.xml" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/spec/www/spec/sqlite-version-test.js" afterPath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/spec/www/spec/sqlite-version-test.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/src/android/io/sqlc/SQLiteAndroidDatabase.java" afterPath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/src/android/io/sqlc/SQLiteAndroidDatabase.java" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/src/android/io/sqlc/SQLiteConnectorDatabase.java" afterPath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/src/android/io/sqlc/SQLiteConnectorDatabase.java" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/src/android/io/sqlc/SQLitePlugin.java" afterPath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/src/android/io/sqlc/SQLitePlugin.java" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/src/ios/SQLitePlugin.h" afterPath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/src/ios/SQLitePlugin.h" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/src/ios/SQLitePlugin.m" afterPath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/src/ios/SQLitePlugin.m" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/src/windows/SQLite3-Win-RT/SQLite3/SQLite3.Shared.vcxitems" afterPath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/src/windows/SQLite3-Win-RT/SQLite3/SQLite3.Shared.vcxitems" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/src/windows/sqlite-proxy.js" afterPath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/src/windows/sqlite-proxy.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ionic-plugin-keyboard/package.json" afterPath="$PROJECT_DIR$/node_modules/ionic-plugin-keyboard/package.json" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
+      <change beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/android.json" afterPath="$PROJECT_DIR$/platforms/android/android.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/build/19.js" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/build/19.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/build/20.js" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/build/20.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/build/4.js" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/build/4.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/build/5.js" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/build/5.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/build/main.css" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/build/main.css" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/build/main.js" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/build/main.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/build/main.js.map" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/build/main.js.map" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/build/vendor.js.map" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/build/vendor.js.map" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/cordova_plugins.js" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/cordova_plugins.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/java/io/sqlc/SQLiteAndroidDatabase.java" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/java/io/sqlc/SQLiteAndroidDatabase.java" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/java/io/sqlc/SQLiteConnectorDatabase.java" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/java/io/sqlc/SQLiteConnectorDatabase.java" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/java/io/sqlc/SQLitePlugin.java" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/java/io/sqlc/SQLitePlugin.java" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/res/drawable-land-hdpi/screen.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/res/drawable-land-ldpi/screen.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/res/drawable-land-mdpi/screen.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/res/drawable-land-xhdpi/screen.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/res/drawable-land-xxhdpi/screen.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/res/drawable-land-xxxhdpi/screen.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/res/drawable-port-hdpi/screen.png" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/res/drawable-port-hdpi/screen.png" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/res/drawable-port-ldpi/screen.png" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/res/drawable-port-ldpi/screen.png" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/res/drawable-port-mdpi/screen.png" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/res/drawable-port-mdpi/screen.png" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/res/drawable-port-xhdpi/screen.png" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/res/drawable-port-xhdpi/screen.png" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/res/drawable-port-xxhdpi/screen.png" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/res/drawable-port-xxhdpi/screen.png" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/res/drawable-port-xxxhdpi/screen.png" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/res/drawable-port-xxxhdpi/screen.png" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/res/mipmap-hdpi/icon.png" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/res/mipmap-hdpi/icon.png" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/res/mipmap-ldpi/icon.png" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/res/mipmap-ldpi/icon.png" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/res/mipmap-mdpi/icon.png" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/res/mipmap-mdpi/icon.png" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/res/mipmap-xhdpi/icon.png" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/res/mipmap-xhdpi/icon.png" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/res/mipmap-xxhdpi/icon.png" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/res/mipmap-xxhdpi/icon.png" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/res/mipmap-xxxhdpi/icon.png" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/res/mipmap-xxxhdpi/icon.png" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/res/xml/config.xml" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/res/xml/config.xml" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/libs/arm64-v8a/libsqlc-native-driver.so" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/libs/armeabi-v7a/libsqlc-native-driver.so" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/libs/armeabi/libsqlc-native-driver.so" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/libs/sqlite-connector.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/libs/x86/libsqlc-native-driver.so" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/libs/x86_64/libsqlc-native-driver.so" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/platform_www/cordova_plugins.js" afterPath="$PROJECT_DIR$/platforms/android/platform_www/cordova_plugins.js" />
+      <change beforePath="$PROJECT_DIR$/plugins/android.json" afterPath="$PROJECT_DIR$/plugins/android.json" />
+      <change beforePath="$PROJECT_DIR$/plugins/cordova-plugin-device/README.md" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device/README.md" />
+      <change beforePath="$PROJECT_DIR$/plugins/cordova-plugin-device/RELEASENOTES.md" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device/RELEASENOTES.md" />
+      <change beforePath="$PROJECT_DIR$/plugins/cordova-plugin-device/package.json" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device/package.json" />
+      <change beforePath="$PROJECT_DIR$/plugins/cordova-plugin-device/plugin.xml" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device/plugin.xml" />
+      <change beforePath="$PROJECT_DIR$/plugins/cordova-plugin-device/src/blackberry10/index.js" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device/src/blackberry10/index.js" />
+      <change beforePath="$PROJECT_DIR$/plugins/cordova-plugin-device/src/browser/DeviceProxy.js" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device/src/browser/DeviceProxy.js" />
+      <change beforePath="$PROJECT_DIR$/plugins/cordova-plugin-device/src/firefoxos/DeviceProxy.js" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device/src/firefoxos/DeviceProxy.js" />
+      <change beforePath="$PROJECT_DIR$/plugins/cordova-plugin-device/src/tizen/DeviceProxy.js" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device/src/tizen/DeviceProxy.js" />
+      <change beforePath="$PROJECT_DIR$/plugins/cordova-plugin-device/src/ubuntu/device.js" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device/src/ubuntu/device.js" />
+      <change beforePath="$PROJECT_DIR$/plugins/cordova-plugin-device/src/windows/DeviceProxy.js" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device/src/windows/DeviceProxy.js" />
+      <change beforePath="$PROJECT_DIR$/plugins/cordova-plugin-device/tests/plugin.xml" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device/tests/plugin.xml" />
+      <change beforePath="$PROJECT_DIR$/plugins/cordova-plugin-device/tests/tests.js" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device/tests/tests.js" />
+      <change beforePath="$PROJECT_DIR$/plugins/cordova-plugin-device/www/device.js" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device/www/device.js" />
+      <change beforePath="$PROJECT_DIR$/plugins/cordova-plugin-ionic-webview/package.json" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-ionic-webview/package.json" />
+      <change beforePath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/README.md" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/README.md" />
+      <change beforePath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/RELEASENOTES.md" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/RELEASENOTES.md" />
+      <change beforePath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/package.json" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/package.json" />
+      <change beforePath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/plugin.xml" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/plugin.xml" />
+      <change beforePath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/src/android/SplashScreen.java" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/src/android/SplashScreen.java" />
+      <change beforePath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/src/browser/SplashScreenProxy.js" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/src/browser/SplashScreenProxy.js" />
+      <change beforePath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/tests/plugin.xml" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/tests/plugin.xml" />
+      <change beforePath="$PROJECT_DIR$/plugins/cordova-plugin-whitelist/RELEASENOTES.md" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-whitelist/RELEASENOTES.md" />
+      <change beforePath="$PROJECT_DIR$/plugins/cordova-plugin-whitelist/package.json" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-whitelist/package.json" />
+      <change beforePath="$PROJECT_DIR$/plugins/cordova-plugin-whitelist/plugin.xml" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-whitelist/plugin.xml" />
+      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/CHANGES.md" afterPath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/CHANGES.md" />
+      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/README.md" afterPath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/README.md" />
+      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/balanced-match/package.json" afterPath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/balanced-match/package.json" />
+      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/brace-expansion/package.json" afterPath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/brace-expansion/package.json" />
+      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/concat-map/package.json" afterPath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/concat-map/package.json" />
+      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/cordova-sqlite-storage-dependencies/README.md" afterPath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/cordova-sqlite-storage-dependencies/README.md" />
+      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/cordova-sqlite-storage-dependencies/libs/arm64-v8a/libsqlc-native-driver.so" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/cordova-sqlite-storage-dependencies/libs/armeabi-v7a/libsqlc-native-driver.so" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/cordova-sqlite-storage-dependencies/libs/armeabi/libsqlc-native-driver.so" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/cordova-sqlite-storage-dependencies/libs/x86/libsqlc-native-driver.so" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/cordova-sqlite-storage-dependencies/libs/x86_64/libsqlc-native-driver.so" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/cordova-sqlite-storage-dependencies/package.json" afterPath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/cordova-sqlite-storage-dependencies/package.json" />
+      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/fs.realpath/package.json" afterPath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/fs.realpath/package.json" />
+      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/glob/package.json" afterPath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/glob/package.json" />
+      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/inflight/package.json" afterPath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/inflight/package.json" />
+      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/inherits/package.json" afterPath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/inherits/package.json" />
+      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/interpret/package.json" afterPath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/interpret/package.json" />
+      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/minimatch/package.json" afterPath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/minimatch/package.json" />
+      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/once/package.json" afterPath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/once/package.json" />
+      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/path-is-absolute/package.json" afterPath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/path-is-absolute/package.json" />
+      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/path-parse/package.json" afterPath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/path-parse/package.json" />
+      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/rechoir/package.json" afterPath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/rechoir/package.json" />
+      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/resolve/package.json" afterPath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/resolve/package.json" />
+      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/shelljs/package.json" afterPath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/shelljs/package.json" />
+      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/wrappy/package.json" afterPath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/wrappy/package.json" />
+      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/package-lock.json" afterPath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/package-lock.json" />
+      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/package.json" afterPath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/package.json" />
+      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/plugin.xml" afterPath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/plugin.xml" />
+      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/spec/www/spec/sqlite-version-test.js" afterPath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/spec/www/spec/sqlite-version-test.js" />
+      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/src/android/io/sqlc/SQLiteAndroidDatabase.java" afterPath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/src/android/io/sqlc/SQLiteAndroidDatabase.java" />
+      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/src/android/io/sqlc/SQLiteConnectorDatabase.java" afterPath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/src/android/io/sqlc/SQLiteConnectorDatabase.java" />
+      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/src/android/io/sqlc/SQLitePlugin.java" afterPath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/src/android/io/sqlc/SQLitePlugin.java" />
+      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/src/ios/SQLitePlugin.h" afterPath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/src/ios/SQLitePlugin.h" />
+      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/src/ios/SQLitePlugin.m" afterPath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/src/ios/SQLitePlugin.m" />
+      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/src/windows/SQLite3-Win-RT/SQLite3/SQLite3.Shared.vcxitems" afterPath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/src/windows/SQLite3-Win-RT/SQLite3/SQLite3.Shared.vcxitems" />
+      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/src/windows/sqlite-proxy.js" afterPath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/src/windows/sqlite-proxy.js" />
+      <change beforePath="$PROJECT_DIR$/plugins/fetch.json" afterPath="$PROJECT_DIR$/plugins/fetch.json" />
+      <change beforePath="$PROJECT_DIR$/plugins/ionic-plugin-keyboard/package.json" afterPath="$PROJECT_DIR$/plugins/ionic-plugin-keyboard/package.json" />
+      <change beforePath="$PROJECT_DIR$/resources/android/icon/drawable-hdpi-icon.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/android/icon/drawable-ldpi-icon.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/android/icon/drawable-mdpi-icon.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/android/icon/drawable-xhdpi-icon.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/android/icon/drawable-xxhdpi-icon.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/android/icon/drawable-xxxhdpi-icon.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/android/splash/drawable-land-hdpi-screen.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/android/splash/drawable-land-ldpi-screen.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/android/splash/drawable-land-mdpi-screen.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/android/splash/drawable-land-xhdpi-screen.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/android/splash/drawable-land-xxhdpi-screen.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/android/splash/drawable-land-xxxhdpi-screen.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/android/splash/drawable-port-hdpi-screen.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/android/splash/drawable-port-ldpi-screen.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/android/splash/drawable-port-mdpi-screen.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/android/splash/drawable-port-xhdpi-screen.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/android/splash/drawable-port-xxhdpi-screen.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/android/splash/drawable-port-xxxhdpi-screen.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/icon.png" afterPath="$PROJECT_DIR$/resources/icon.png" />
+      <change beforePath="$PROJECT_DIR$/resources/ios/icon/icon-1024.png" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-1024.png" />
+      <change beforePath="$PROJECT_DIR$/resources/ios/icon/icon-40.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/ios/icon/icon-40@2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/ios/icon/icon-40@3x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/ios/icon/icon-50.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/ios/icon/icon-50@2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/ios/icon/icon-60.png" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-60.png" />
+      <change beforePath="$PROJECT_DIR$/resources/ios/icon/icon-60@2x.png" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-60@2x.png" />
+      <change beforePath="$PROJECT_DIR$/resources/ios/icon/icon-60@3x.png" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-60@3x.png" />
+      <change beforePath="$PROJECT_DIR$/resources/ios/icon/icon-72.png" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-72.png" />
+      <change beforePath="$PROJECT_DIR$/resources/ios/icon/icon-72@2x.png" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-72@2x.png" />
+      <change beforePath="$PROJECT_DIR$/resources/ios/icon/icon-76.png" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-76.png" />
+      <change beforePath="$PROJECT_DIR$/resources/ios/icon/icon-76@2x.png" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-76@2x.png" />
+      <change beforePath="$PROJECT_DIR$/resources/ios/icon/icon-83.5@2x.png" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-83.5@2x.png" />
+      <change beforePath="$PROJECT_DIR$/resources/ios/icon/icon-small.png" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-small.png" />
+      <change beforePath="$PROJECT_DIR$/resources/ios/icon/icon-small@2x.png" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-small@2x.png" />
+      <change beforePath="$PROJECT_DIR$/resources/ios/icon/icon-small@3x.png" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-small@3x.png" />
+      <change beforePath="$PROJECT_DIR$/resources/ios/icon/icon.png" afterPath="$PROJECT_DIR$/resources/ios/icon/icon.png" />
+      <change beforePath="$PROJECT_DIR$/resources/ios/icon/icon@2x.png" afterPath="$PROJECT_DIR$/resources/ios/icon/icon@2x.png" />
+      <change beforePath="$PROJECT_DIR$/resources/ios/splash/Default-568h@2x~iphone.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/ios/splash/Default-667h.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/ios/splash/Default-736h.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/ios/splash/Default-Landscape-736h.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/ios/splash/Default-Landscape@2x~ipad.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/ios/splash/Default-Landscape@~ipadpro.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/ios/splash/Default-Landscape~ipad.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/ios/splash/Default-Portrait@2x~ipad.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/ios/splash/Default-Portrait@~ipadpro.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/ios/splash/Default-Portrait~ipad.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/ios/splash/Default@2x~iphone.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/ios/splash/Default@2x~universal~anyany.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/ios/splash/Default~iphone.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/splash.png" afterPath="$PROJECT_DIR$/resources/splash.png" />
+      <change beforePath="$PROJECT_DIR$/src/pages/crea-progetto/crea-progetto.html" afterPath="$PROJECT_DIR$/src/pages/crea-progetto/crea-progetto.html" />
+      <change beforePath="$PROJECT_DIR$/src/pages/dettaglio-task/dettaglio-task.html" afterPath="$PROJECT_DIR$/src/pages/dettaglio-task/dettaglio-task.html" />
+      <change beforePath="$PROJECT_DIR$/src/pages/dettaglio-task/dettaglio-task.scss" afterPath="$PROJECT_DIR$/src/pages/dettaglio-task/dettaglio-task.scss" />
+      <change beforePath="$PROJECT_DIR$/src/pages/home-progetto/home-progetto.ts" afterPath="$PROJECT_DIR$/src/pages/home-progetto/home-progetto.ts" />
+      <change beforePath="$PROJECT_DIR$/src/pages/profilo-member/profilo-member.html" afterPath="$PROJECT_DIR$/src/pages/profilo-member/profilo-member.html" />
+      <change beforePath="$PROJECT_DIR$/src/pages/profilo-member/profilo-member.scss" afterPath="$PROJECT_DIR$/src/pages/profilo-member/profilo-member.scss" />
+      <change beforePath="$PROJECT_DIR$/www/build/10.js" afterPath="$PROJECT_DIR$/www/build/10.js" />
+      <change beforePath="$PROJECT_DIR$/www/build/15.js" afterPath="$PROJECT_DIR$/www/build/15.js" />
+      <change beforePath="$PROJECT_DIR$/www/build/17.js" afterPath="$PROJECT_DIR$/www/build/17.js" />
+      <change beforePath="$PROJECT_DIR$/www/build/18.js" afterPath="$PROJECT_DIR$/www/build/18.js" />
+      <change beforePath="$PROJECT_DIR$/www/build/19.js" afterPath="$PROJECT_DIR$/www/build/19.js" />
+      <change beforePath="$PROJECT_DIR$/www/build/20.js" afterPath="$PROJECT_DIR$/www/build/20.js" />
+      <change beforePath="$PROJECT_DIR$/www/build/4.js" afterPath="$PROJECT_DIR$/www/build/4.js" />
+      <change beforePath="$PROJECT_DIR$/www/build/5.js" afterPath="$PROJECT_DIR$/www/build/5.js" />
+      <change beforePath="$PROJECT_DIR$/www/build/6.js" afterPath="$PROJECT_DIR$/www/build/6.js" />
+      <change beforePath="$PROJECT_DIR$/www/build/7.js" afterPath="$PROJECT_DIR$/www/build/7.js" />
+      <change beforePath="$PROJECT_DIR$/www/build/main.css" afterPath="$PROJECT_DIR$/www/build/main.css" />
+      <change beforePath="$PROJECT_DIR$/www/build/main.js" afterPath="$PROJECT_DIR$/www/build/main.js" />
+      <change beforePath="$PROJECT_DIR$/www/build/main.js.map" afterPath="$PROJECT_DIR$/www/build/main.js.map" />
+      <change beforePath="$PROJECT_DIR$/www/build/vendor.js.map" afterPath="$PROJECT_DIR$/www/build/vendor.js.map" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/pages/crea-progetto/crea-progetto.html" />
+        <option value="/Applications/MAMP/htdocs/WASP/apiRelazioneTaskCompletatiAssegnati.php" />
+        <option value="$PROJECT_DIR$/src/pages/dettaglio-task/dettaglio-task.html" />
+        <option value="$PROJECT_DIR$/src/pages/dettaglio-task/dettaglio-task.scss" />
+        <option value="$PROJECT_DIR$/src/pages/profilo-member/profilo-member.scss" />
+        <option value="$PROJECT_DIR$/src/pages/profilo-member/profilo-member.html" />
+        <option value="$PROJECT_DIR$/src/pages/home-progetto/home-progetto.ts" />
+        <option value="$PROJECT_DIR$/config.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+    <handled-path value="$PROJECT_DIR$/platforms/android/cordova/node_modules" />
+    <handled-path value="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Wasp_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Wasp_1" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="Wasp_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Wasp_1" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="Wasp_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Wasp_1" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="pages" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e87254d-7fb3-4bd3-b955-075a818cf8cd" name="Default" comment="" />
+      <created>1515595158726</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1515595158726</updated>
+      <workItem from="1515595160924" duration="5639000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5639000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/pages/home/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/home/home.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#42#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/home/home.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/dettaglio-task/dettaglio-task.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#41#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/crea-progetto/crea-progetto.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="39" lean-forward="true" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/dettaglio-task/dettaglio-task.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#42#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/MAMP/htdocs/WASP/apiRelazioneTaskCompletatiAssegnati.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="4" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+          <folding>
+            <marker date="1515597666652" expanded="true" signature="323:427" ph="SELECT COUNT... membriTask" />
+            <marker date="1515597666652" expanded="true" signature="629:733" ph="SELECT COUNT... taskCompletati" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/home-progetto/home-progetto.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="29" column="45" lean-forward="false" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/home-progetto/home-progetto.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="11" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/visualizza-members/visualizza-members.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/dettaglio-task/dettaglio-task.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="3" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="4" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/profilo-member/profilo-member.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="23" lean-forward="false" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/dettaglio-task/dettaglio-task.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="23" lean-forward="false" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/profilo-member/profilo-member.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="3" lean-forward="false" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/MAMP/htdocs/WASP/apiRicavoDaiTask.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="592">
+          <caret line="43" column="40" lean-forward="true" selection-start-line="43" selection-start-column="40" selection-end-line="43" selection-end-column="40" />
+          <folding>
+            <marker date="1515235875625" expanded="true" signature="297:463" ph="SELECT m.idT... dettaglioProgetto" />
+            <marker date="1515235875625" expanded="true" signature="653:811" ph="SELECT d.att... dettaglioProgetto" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/home-progetto/home-progetto.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1020">
+          <caret line="37" column="26" lean-forward="false" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="94" column="31" lean-forward="false" selection-start-line="94" selection-start-column="31" selection-end-line="94" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#53#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/signup/signup.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/signup/signup.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/theme/variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="22" lean-forward="false" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-176">
+          <caret line="24" column="69" lean-forward="false" selection-start-line="24" selection-start-column="69" selection-end-line="24" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/manifest.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/service-worker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

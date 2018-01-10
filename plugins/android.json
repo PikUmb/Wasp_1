@@ -7,6 +7,21 @@
     "files": {}
   },
   "installed_plugins": {
+    "ionic-plugin-keyboard": {
+      "PACKAGE_NAME": "com.unisa.wasp"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.unisa.wasp"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.unisa.wasp"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.unisa.wasp"
+    },
+    "cordova-plugin-ionic-webview": {
+      "PACKAGE_NAME": "com.unisa.wasp"
+    },
     "cordova-sqlite-storage": {
       "PACKAGE_NAME": "com.unisa.wasp"
     }
